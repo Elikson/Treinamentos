@@ -8,7 +8,7 @@ function App() {
 
 
   return (
-    <div>Funcionando</div>
+    <div></div>
   )
 }
 
